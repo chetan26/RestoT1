@@ -1,0 +1,9 @@
+com\resto\gen\service\RestoService.class
+com\resto\gen\service\RestoServiceImpl.class
+com\resto\gen\controller\IndexController.class
+com\resto\gen\configuration\CORSFilter.class
+com\resto\gen\configuration\HelloWorldInitializer.class
+com\resto\gen\service\UserServiceImpl.class
+com\resto\gen\configuration\HelloWorldConfiguration.class
+com\resto\gen\controller\HelloWorldRestController.class
+com\resto\gen\model\User.class
